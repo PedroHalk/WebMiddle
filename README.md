@@ -7,4 +7,4 @@
 * Item 2
  * Item 2a
 ---
-let str = "https://twitter.com/home"
+let str = ""
